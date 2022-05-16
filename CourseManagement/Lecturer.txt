@@ -1,0 +1,21 @@
+4
+dbtien
+abcdef
+Dinh Ba Tien
+Tien si
+0
+nmhuy
+45678
+Nguyen Minh Huy
+Thac si
+0
+nhminh
+1003
+Nguyen Hue Minh
+Thac si
+1
+tdquang
+6001
+Tran Duy Quang
+Thac si
+0

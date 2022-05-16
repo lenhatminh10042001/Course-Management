@@ -1,0 +1,29 @@
+4
+19127431
+ddkhang
+Dang Duy Khang
+2001 9 9
+19CLC2
+0
+
+19127001
+nvdkhuong
+Nguyen Vu Duy Khuong
+2001 1 1
+19CLC2
+0
+
+19127002
+lnminh
+Le Nhat Minh
+2001 3 2
+19CLC2
+0
+
+19127003
+ttthanh
+Tong Tat Thanh
+2001 4 5
+19CLC2
+0
+

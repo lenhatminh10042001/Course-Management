@@ -1,0 +1,27 @@
+2
+CS162
+Introduction to Programming
+19CLC1
+dbtien
+Dinh Ba Tien
+0
+2020 04 01
+2020 06 01
+5
+15 30
+17 30
+I32
+
+CM101
+Communications
+19CLC1
+tdquang
+Tran Duy Quang
+0
+2020 04 01
+2020 06 01
+6
+13 30
+17 30
+I44
+
